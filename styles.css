@@ -1,0 +1,50 @@
+html { 
+  background: url(backgroundpic.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  font-family: Georgia, serif;
+}
+
+.info {
+  font-size: medium;
+  font-weight: 525;
+  max-width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.backbox {
+  background: rgba(201, 202, 175, 0.7);
+  border-radius: 25px;
+  border: 2px solid #b48d3a;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin-top: 1cm;
+  margin-bottom: 2cm;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  max-width: 300px;
+  border-radius: 50%;
+  border: 1px solid #b48d3a;
+  padding: 5px;
+}
